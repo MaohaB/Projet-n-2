@@ -245,7 +245,7 @@ a {
     
 }
 .hebergements-cards a {
-    width: 30%;
+    width: 28%;
 
     }
 .hebergements-cards .card {
@@ -357,13 +357,13 @@ a {
 
 .activities {
     width: 150%;
-    height: 340px;
-  justify-content: space-around;
-      display: flex;
+    height: 380px;
+    justify-content: space-around;
+    display: flex;
 }
 .activities-card {
   width: 25%;
-  height:  250px;
+  height:  270px;
   border-radius: 20px;
     display: flex;
     margin: 15px;
